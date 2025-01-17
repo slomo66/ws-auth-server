@@ -4,6 +4,7 @@ const { userCredentials } = require("./credentials");
 const jwtSecret = "example-secret";
 
 // http://localhost:8080/auth?username=userA&password=example-password-userA
+// https://ws-auth-server.onrender.com//auth?username=userA&password=example-password-userA
 
 const fetchUserToken = (req) => {
   let response = "Error: No matching user credentials found.";

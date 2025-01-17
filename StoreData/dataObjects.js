@@ -18,15 +18,15 @@ exports.testLanguageList = [
 ];
 
 exports.testLanguage_deDe = {
-    "100.000": "Daily",
-    100.001: "Diagramm der täglichen Verkäufe", 
-}
+  "100.000": "Daily",
+  100.001: "Diagramm der täglichen Verkäufe",
+};
 
 exports.testLanguage_enGB = {
-    "100.000": "Daily",
-    100.001: "Chart of daily sales",
-  };
-  exports.testLanguage_frFr = {
-    "100.000": "Daily",
-    100.001: "Tableau des ventes quotidiennes",
-  };
+  "100.000": "Daily",
+  100.001: "Chart of daily sales",
+};
+exports.testLanguage_frFr = {
+  "100.000": "Daily",
+  100.001: "Tableau des ventes quotidiennes",
+};
